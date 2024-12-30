@@ -1,0 +1,13 @@
+# File Compressor Project
+
+This is a file compression tool built using C++ and Qt. It uses Huffman encoding to compress files efficiently.
+
+## Features
+- Compress files using Huffman encoding.
+- User-friendly interface built with Qt.
+- Support for multiple file types.
+
+## Requirements
+- Qt 5.15 or later.
+- A C++ compiler (e.g., GCC, MSVC).
+
